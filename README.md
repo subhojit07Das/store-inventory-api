@@ -7,7 +7,7 @@ A REST API for managing store inventory, built with FastAPI and PostgreSQL, depl
 - **Language:** Python 3.13
 - **Framework:** FastAPI
 - **Database:** PostgreSQL 18
-- **Server:** AWS EC2 (Ubuntu 24.04, t2.micro)
+- **Server:** AWS EC2 (Ubuntu 24.04, t3.micro)
 - **Version Control:** Git & GitHub
 
 ## Project Structure
